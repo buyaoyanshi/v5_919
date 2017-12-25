@@ -6,8 +6,4 @@ i do somthing
 
 5
 
-<<<<<<< HEAD
 6
-=======
-6
->>>>>>> feature
